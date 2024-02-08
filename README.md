@@ -13,6 +13,8 @@ Netflix, a global streaming giant, has transformed the entertainment industry by
 ## Objective:
 The aim of 'Netflix Analysis' is to gain various insights into the dataset.
 
+![Netflix](https://github.com/Rohit-Moghe/Netflix-Exploratory-Data-Analysis/blob/58be463a95cd45dd5f04d31b0392554174f7c7de/Netflix%20Data%20Analysis_page-0001.jpg)
+
 ## Database and Technology used:
 1. Database: https://ourworldindata.org/covid-deaths
 2. Technology Used: Python - Google Colab
